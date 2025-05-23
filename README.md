@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anandan</h1>
 <h3 align="center">🛠️ Specializing in automation for wireless (WiFi) testing environments</h3>
 
-- Broadcom Limited **Tools and Infrastructure Engineer in WiFi Software Quality Space**
+- **Tools and Infrastructure Engineer in Wireless Domain(WiFi/BT)**
 
 - 👯 I’m looking to collaborate on **AI and MI opperutinies in Testing**
 
