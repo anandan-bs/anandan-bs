@@ -5,9 +5,7 @@
 
 - 👯 I’m looking to collaborate on **AI and MI opperutinies in Testing**
 
-- 📫 How to reach me **anandanklnec@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **anandanklnec@gmail.com**</h3>
 <p align="left">
 </p>
 
