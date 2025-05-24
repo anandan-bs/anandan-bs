@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anandan</h1>
-<h3 align="center">🛠️ Specializing in automation for wireless (WiFi) testing environments</h3>
-
-- **Tools and Infrastructure Engineer in Wireless Domain(WiFi/BT)**
-
-- 👯 I’m looking to collaborate on **AI and MI opperutinies in Testing**
 
 <h3 align="left">Connect with me: **anandanklnec@gmail.com**</h3>
 <p align="left">
