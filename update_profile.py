@@ -1,0 +1,48 @@
+import os
+import requests
+from datetime import datetime
+
+def get_user_repos():
+    github_token = os.environ.get('GITHUB_TOKEN')
+    headers = {
+        'Authorization': f'token {github_token}',
+        'Accept': 'application/vnd.github.v3+json'
+    }
+    
+    username = 'anandan-bs'  # Your GitHub username
+    response = requests.get(f'https://api.github.com/users/{username}/repos', headers=headers)
+    return response.json()
+
+def update_readme():
+    repos = get_user_repos()
+    
+    # Sort repositories by creation date (newest first)
+    repos.sort(key=lambda x: x['created_at'], reverse=True)
+    
+    # Create README content
+    readme_content = """# Hi there 👋
+
+## My Latest Repositories
+
+"""
+    
+    # Add the 5 most recent repositories
+    for repo in repos[:5]:
+        name = repo['name']
+        description = repo['description'] or 'No description available'
+        stars = repo['stargazers_count']
+        forks = repo['forks_count']
+        
+        readme_content += f"### [{name}]({repo['html_url']})\n"
+        readme_content += f"{description}\n"
+        readme_content += f"⭐ Stars: {stars} | 🍴 Forks: {forks}\n\n"
+    
+    # Add timestamp
+    readme_content += f"\n*Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M')} UTC*"
+    
+    # Write to README.md
+    with open('README.md', 'w') as f:
+        f.write(readme_content)
+
+if __name__ == '__main__':
+    update_readme()
