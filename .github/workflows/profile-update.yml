@@ -15,6 +15,6 @@ jobs:
       - name: Update README
         uses: koj-co/readme-repos-list@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
           query: 'user:anandan-bs'
           max: 10
