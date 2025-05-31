@@ -31,8 +31,24 @@
 
 ## My Latest Repositories
 
+### [distlockd](https://github.com/anandan-bs/distlockd)
+Zero dependency, pure python, lightweight Distributed Lock Daemon over TCP, outperforms redis lock
+⭐ Stars: 2 | 🍴 Forks: 0
 
-*Last updated: 2025-05-31 15:47 UTC*
+### [pytaskexec](https://github.com/anandan-bs/pytaskexec)
+A lightweight Python task management library built on top of concurrent.futures that simplifies concurrent task execution.
+⭐ Stars: 0 | 🍴 Forks: 0
+
+### [simplediskdb](https://github.com/anandan-bs/simplediskdb)
+Simple, serverless key value pair data stoarge with MongoDB-like wrapper on top of DiskCache
+⭐ Stars: 0 | 🍴 Forks: 0
+
+### [anandan-bs](https://github.com/anandan-bs/anandan-bs)
+Config files for my GitHub profile.
+⭐ Stars: 0 | 🍴 Forks: 0
+
+
+*Last updated: 2025-05-31 15:53 UTC*
 ## 📊 GitHub Stats
 
 <p align="center">
