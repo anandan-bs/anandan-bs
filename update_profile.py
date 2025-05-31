@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 def get_user_repos():
-    github_token = os.environ.get('GITHUB_TOKEN')
+    github_token = os.environ.get('TOKEN')
     headers = {
         'Authorization': f'token {github_token}',
         'Accept': 'application/vnd.github.v3+json'
