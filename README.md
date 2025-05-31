@@ -31,37 +31,32 @@
 
 ## My Latest Repositories
 
-### [distlockd](https://github.com/anandan-bs/distlockd)
-Zero dependency, pure python, lightweight Distributed Lock Daemon over TCP, outperforms redis lock
-⭐ Stars: 2 | 🍴 Forks: 0
 
-### [pytaskexec](https://github.com/anandan-bs/pytaskexec)
-A lightweight Python task management library built on top of concurrent.futures that simplifies concurrent task execution.
-⭐ Stars: 0 | 🍴 Forks: 0
+*Last updated: 2025-05-31 15:45 UTC*
+## 📊 GitHub Stats
 
-### [simplediskdb](https://github.com/anandan-bs/simplediskdb)
-Simple, serverless key value pair data stoarge with MongoDB-like wrapper on top of DiskCache
-⭐ Stars: 0 | 🍴 Forks: 0
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandan-bs&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandan-bs&theme=default" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anandan-bs&theme=default" alt="Activity Graph" />
+</p>
 
-### [anandan-bs](https://github.com/anandan-bs/anandan-bs)
-Config files for my GitHub profile.
-⭐ Stars: 0 | 🍴 Forks: 0
+---
 
-### [distlockd](https://github.com/anandan-bs/distlockd)
-Zero dependency, pure python, lightweight Distributed Lock Daemon over TCP, outperforms redis lock
-⭐ Stars: 2 | 🍴 Forks: 0
+## 🏆 GitHub Trophies
 
-### [pytaskexec](https://github.com/anandan-bs/pytaskexec)
-A lightweight Python task management library built on top of concurrent.futures that simplifies concurrent task execution.
-⭐ Stars: 0 | 🍴 Forks: 0
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anandan-bs&theme=flat&no-frame=true&column=7" alt="Trophies" />
+</p>
 
-### [simplediskdb](https://github.com/anandan-bs/simplediskdb)
-Simple, serverless key value pair data stoarge with MongoDB-like wrapper on top of DiskCache
-⭐ Stars: 0 | 🍴 Forks: 0
+---
 
-### [anandan-bs](https://github.com/anandan-bs/anandan-bs)
-Config files for my GitHub profile.
-⭐ Stars: 0 | 🍴 Forks: 0
+## 📬 Connect with Me
 
+- 📧 Email: [anandanklnce@gmail.com](mailto:anandanklnce@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/anandanklnce](https://linkedin.com/in/anandankl)  
+- 🌐 GitHub: [github.com/anandan-bs](https://github.com/anandan-bs)
 
-*Last updated: 2025-05-31 15:26 UTC*
+---
