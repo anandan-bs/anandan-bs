@@ -27,6 +27,8 @@ jobs:
           pip install -r requirements.txt
       - run: |
           python update_profile.py
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
 
       - name: Commit & Push
         run: |
