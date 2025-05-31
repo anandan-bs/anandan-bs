@@ -7,28 +7,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔬 Tools & Infrastructure Engineer focused on **Wireless Communication (WiFi/BT)**
-- 🌐 Expertise in **IEEE 802.11** standards: a/b/g/n/ac/ax/be
-- 🧪 Building scalable **test automation** tools and CI/CD pipelines
-- 💡 Passionate about performance benchmarking, protocol validation, and custom tooling
-- 📈 Contributor to open source ideas in testing and distributed systems
-
----
-
-## 🛠️ Skills & Tools
-
-- **Languages:** Python, Bash, C
-- **Automation & Frameworks:** Pytest, Unittest, Jenkins, GitHub Actions, Docker
-- **Wireless Tools:** tcpdump, Wireshark, iw, hostapd, sniffer tools
-- **Databases & Caching:** MongoDB, Redis, SQLite, diskcache
-- **Version Control:** Git, GitHub, SVN
-- **Web Frameworks:** Flask, FastAPI
-- **Others:** JSON, YAML, REST APIs, Linux CLI, OpenWRT, embedded testing
-
----
-
 ## My Latest Repositories
 
 ### [distlockd](https://github.com/anandan-bs/distlockd)
