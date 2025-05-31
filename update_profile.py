@@ -3,15 +3,33 @@ import requests
 from datetime import datetime
 
 def get_user_repos():
-    github_token = os.environ.get('TOKEN')
+    github_token = os.environ.get('GITHUB_TOKEN')
     headers = {
         'Authorization': f'token {github_token}',
         'Accept': 'application/vnd.github.v3+json'
     }
     
     username = 'anandan-bs'  # Your GitHub username
-    response = requests.get(f'https://api.github.com/users/{username}/repos', headers=headers)
-    return response.json()
+    repos = []
+    page = 1
+    
+    while True:
+        response = requests.get(
+            f'https://api.github.com/users/{username}/repos',
+            headers=headers,
+            params={'page': page, 'per_page': 100}
+        )
+        if response.status_code != 200:
+            break
+        
+        page_repos = response.json()
+        if not page_repos:
+            break
+            
+        repos.extend(page_repos)
+        page += 1
+    
+    return repos
 
 def update_readme():
     repos = get_user_repos()
