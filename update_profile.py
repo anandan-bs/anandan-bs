@@ -34,7 +34,8 @@ def get_user_repos():
 def update_readme():
     repos = get_user_repos()
     
-    # Sort repositories by creation date (newest first)
+    # Filter out the profile readme repository and sort by creation date (newest first)
+    repos = [repo for repo in repos if repo['name'] != 'anandan-bs']
     repos.sort(key=lambda x: x['created_at'], reverse=True)
     
     # Read existing README content

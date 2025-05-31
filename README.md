@@ -72,7 +72,7 @@ Config files for my GitHub profile.
 ## 📬 Connect with Me
 
 - 📧 Email: [anandanklnce@gmail.com](mailto:anandanklnce@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/anandanklnce](https://linkedin.com/in/anandankl)  
+- 💼 LinkedIn: [linkedin.com/in/anandan-bs](https://linkedin.com/in/anandan-bs)  
 - 🌐 GitHub: [github.com/anandan-bs](https://github.com/anandan-bs)
 
 ---
