@@ -31,9 +31,8 @@
 
 ## 🔥 Featured Repos
 
-[![Readme Repo](https://github-readme-stats.vercel.app/api/pin/?username=anandan-bs&repo=simplediskdb)](https://github.com/anandan-bs/simplediskdb)
-[![Readme Repo](https://github-readme-stats.vercel.app/api/pin/?username=anandan-bs&repo=distlockd)](https://github.com/anandan-bs/distlockd)
-[![Readme Repo](https://github-readme-stats.vercel.app/api/pin/?username=anandan-bs&repo=pytaskexec)](https://github.com/anandan-bs/pytaskexec)
+<!-- start: readme-repos-list -->
+<!-- end: readme-repos-list -->
 
 ---
 
