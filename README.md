@@ -9,6 +9,10 @@
 
 ## My Latest Repositories
 
+### [ollama-rag-engine](https://github.com/anandan-bs/ollama-rag-engine)
+A powerful RAG (Retrieval-Augmented Generation) engine powered by Ollama, ChromaDB, and Gradio. Query your documents with local LLMs.
+⭐ Stars: 0 | 🍴 Forks: 0
+
 ### [distlockd](https://github.com/anandan-bs/distlockd)
 Zero dependency, pure python, lightweight Distributed Lock Daemon over TCP, outperforms redis lock
 ⭐ Stars: 2 | 🍴 Forks: 0
@@ -22,7 +26,7 @@ Simple, serverless key value pair data stoarge with MongoDB-like wrapper on top 
 ⭐ Stars: 0 | 🍴 Forks: 0
 
 
-*Last updated: 2025-06-01 01:25 UTC*
+*Last updated: 2025-06-02 01:15 UTC*
 ## 📊 GitHub Stats
 
 <p align="center">
