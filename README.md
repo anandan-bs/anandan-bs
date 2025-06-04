@@ -9,7 +9,7 @@
 
 ## My Latest Repositories
 
-### [ollama-rag-engine](https://github.com/anandan-bs/ollama-rag-engine)
+### [ragify-docs](https://github.com/anandan-bs/ragify-docs)
 A powerful RAG (Retrieval-Augmented Generation) engine powered by Ollama, ChromaDB, and Gradio. Query your documents with local LLMs.
 ⭐ Stars: 0 | 🍴 Forks: 0
 
@@ -26,7 +26,7 @@ Simple, serverless key value pair data stoarge with MongoDB-like wrapper on top 
 ⭐ Stars: 0 | 🍴 Forks: 0
 
 
-*Last updated: 2025-06-03 01:14 UTC*
+*Last updated: 2025-06-04 01:14 UTC*
 ## 📊 GitHub Stats
 
 <p align="center">
