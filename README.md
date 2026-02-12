@@ -9,10 +9,6 @@
 
 ## My Latest Repositories
 
-### [stock-analytic](https://github.com/anandan-bs/stock-analytic)
-No description available
-⭐ Stars: 2 | 🍴 Forks: 0
-
 ### [ragify-docs](https://github.com/anandan-bs/ragify-docs)
 A powerful RAG (Retrieval-Augmented Generation) engine powered by Ollama, ChromaDB, and Gradio. Query your documents with local LLMs.
 ⭐ Stars: 0 | 🍴 Forks: 0
@@ -30,7 +26,7 @@ Simple, serverless key value pair data stoarge with MongoDB-like wrapper on top 
 ⭐ Stars: 0 | 🍴 Forks: 0
 
 
-*Last updated: 2026-02-11 01:56 UTC*
+*Last updated: 2026-02-12 01:50 UTC*
 ## 📊 GitHub Stats
 
 <p align="center">
